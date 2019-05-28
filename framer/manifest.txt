@@ -1,3 +1,4 @@
+yarn-error.log
 node_modules/framer/resource.d.ts
 node_modules/framer/package.json
 node_modules/framer/node_modules/react/package.json
@@ -50,6 +51,7 @@ design/images/gGxsWfjFWf7XF7megh4rIrndDc8.png
 design/images/efG8jfMXDyVIqpZA0LmyT7kKXkQ.png
 design/images/ajKzXtHfnu9vkwCT1w7d4lHTA.png
 design/images/ZHSGhNOIfTfu8StQInTJVOKc4w.png
+design/images/RsuQww3uQGpel40aj3SupcOBZQ.png
 design/images/RpBwoOCikOGmqFbz7w908p4rQZE.png
 design/images/L7xjfZsofLrkBIKHUovkcExVo.png
 design/images/GxjtHfxfXiKGukxykk97XYFcZ54.png
